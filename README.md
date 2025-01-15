@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un estudiante apasionado por el Hacking y aprendiendo siempre con los mejor con el Tito S4vitar y PinguinodeMario unos grandes.
+I am a web development student and cybersecurity apprentice, I love to program and develop ideas and translate them, right now I focus on web development, having my own repo, and I love English.
 
 
 # 💻 Tech Stack:
